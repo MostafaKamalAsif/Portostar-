@@ -3,6 +3,8 @@ import Header from '../layouts/Header'
 import Banner from '../layouts/Banner'
 import Experience from '../layouts/Experience'
 import Services from '../layouts/Services'
+import About from '../layouts/About'
+import Clients from '../layouts/Clients'
 
 
 const Home = () => {
@@ -12,6 +14,8 @@ const Home = () => {
     <Banner/>
     <Experience/>
     <Services/>
+    <About/>
+    <Clients/>
     </>
   )
 }

@@ -8,6 +8,7 @@ import Motion from "/src/assets/Motion.png"
 import Headding from "../Components/Headding";
 import Flex from "../Components/Flex";
 
+
 const Services = () => {
   return (
     <>
