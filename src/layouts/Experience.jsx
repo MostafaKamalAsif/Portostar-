@@ -10,7 +10,7 @@ const Experience = () => {
     const counters = document.querySelectorAll(".counter");
     counters.forEach((el) =>
       counterUp(el, {
-        duration: 2000,
+        duration: 2500,
         delay: 10,
       })
     );
