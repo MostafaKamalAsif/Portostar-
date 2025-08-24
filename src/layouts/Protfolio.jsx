@@ -4,7 +4,7 @@ import Image from '../Components/Image'
 import Headding from "../Components/Headding";
 import polygon from "/src/assets/Polygon.png"
 import Flex from '../Components/Flex';
-import Work from '../Components/work';
+import Work from '/src/Components/Work';
 import work_1 from "/src/assets/portfolio.webp"
 import work_2 from "/src/assets/work_2.jpeg"
 import work_3 from "/src/assets/work_3.webp"
