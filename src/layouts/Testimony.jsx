@@ -34,7 +34,7 @@ const Testimony = () => {
           />
           <div className="absolute top-[369px] w-[1170px]  ">
             <Flex className={'justify-between'}>
-                <div className="w-[48%] pt-11 pb-14 bg-white rounded-3xl px-12">
+                <div className="w-[48%] pt-11 pb-14  rounded-3xl px-12 bg-white drop-shadow-[27px_37px_80px_rgba(0,0,0,0.1)]">
                     <ul className="flex gap  gap-1.5 pb-8">
                         <li className="text-[#EEC01C] text-2xl"><FaRegStar/></li>
                         <li className="text-[#EEC01C] text-2xl"><FaRegStar/></li>
@@ -61,7 +61,7 @@ const Testimony = () => {
                         </Flex>
                     
                 </div>
-                <div className="w-[48%] pt-11 pb-14 bg-white rounded-3xl px-12 ">
+                <div className="w-[48%] pt-11 pb-14 bg-white rounded-3xl px-12 drop-shadow-[27px_37px_80px_rgba(0,0,0,0.1)]">
                     <ul className="flex gap  gap-1.5 pb-8">
                         <li className="text-[#EEC01C] text-2xl"><FaRegStar/></li>
                         <li className="text-[#EEC01C] text-2xl"><FaRegStar/></li>

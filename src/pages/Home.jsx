@@ -7,6 +7,7 @@ import About from '../layouts/About'
 import Clients from '../layouts/Clients'
 import Protfolio from '../layouts/Protfolio'
 import Testimony from '../layouts/Testimony'
+import CTA from '../layouts/CTA'
 
 
 const Home = () => {
@@ -20,6 +21,7 @@ const Home = () => {
     <Clients/>
     <Protfolio/>
     <Testimony/>
+    <CTA/>
     </>
   )
 }
